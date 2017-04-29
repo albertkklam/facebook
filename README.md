@@ -8,3 +8,5 @@ Follow instructions [here](https://github.com/spark-notebook/spark-notebook/blob
 ## Resources
 1. [Facebook V: Predicting Check Ins](https://www.kaggle.com/c/facebook-v-predicting-check-ins)
 2. [Mastering Apache Spark 2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
+3. [Data Exploration Using Spark](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
+4. [Interactive Analysis with the Spark Shell](http://spark.apache.org/docs/latest/quick-start.html)
