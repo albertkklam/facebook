@@ -5,7 +5,7 @@ The goal of this competition is to predict which place a person would like to ch
 ## Approach
 Various approaches in Python and R are discussed at length [here](https://www.kaggle.com/c/facebook-v-predicting-check-ins/kernels). The purpose of this repository is to implement a solution in Apache Spark and its various libraries. I've chosen to use [Spark Notebook](http://spark-notebook.io/), which provides good interactive features for data exploration.
 
-> The Spark Notebook is an open source notebook aimed at enterprise environments, providing Data Scientist and Data Engineers with an interactive web-based editor that can combine Scala code, SQL queries, Markup and JavaScript in a collaborative manner to explore, analyse and learn from massive data sets
+> The Spark Notebook is an open source notebook aimed at enterprise environments, providing Data Scientists and Data Engineers with an interactive web-based editor that can combine Scala code, SQL queries, Markup and JavaScript in a collaborative manner to explore, analyse and learn from massive data sets
 
 ## Installing Spark Notebook
 Follow instructions [here](https://github.com/spark-notebook/spark-notebook/blob/master/docs/quick_start.md)
@@ -19,6 +19,6 @@ Follow instructions [here](https://github.com/spark-notebook/spark-notebook/blob
 1. [What is Apache Spark?](https://www.supergloo.com/spark-tutorial/)
 2. [Spark Tutorials with Scala](https://www.supergloo.com/spark-tutorial/spark-tutorials-scala/)
 3. [Mastering Apache Spark 2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
-4. [Data Exploration Using Spark](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
+4. [Spark SQL, DataFrames, and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 5. [Interactive Analysis with the Spark Shell](http://spark.apache.org/docs/latest/quick-start.html)
-6. [Spark SQL, DataFrames, and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+6. [Data Exploration Using Spark](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
